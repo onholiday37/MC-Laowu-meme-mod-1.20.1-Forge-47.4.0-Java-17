@@ -1,0 +1,16 @@
+{
+	"subtitles.laowu_meme.laowu2": "老吴2",
+	"subtitles.laowu_meme.qiliang": "凄凉",
+	"subtitles.laowu_meme.zhanhou": "战吼",
+	"screen.laowu_meme.title": "老吴梗模组 · 音频设置",
+	"screen.laowu_meme.hint": "点击切换启用状态；外部 OGG 放入 config/laowu_meme/sounds",
+	"screen.laowu_meme.missing_builtin": "— %s（原包缺少 OGG）",
+	"screen.laowu_meme.previous": "上一页",
+	"screen.laowu_meme.next": "下一页",
+	"screen.laowu_meme.refresh": "刷新列表",
+	"screen.laowu_meme.open_folder": "打开文件夹",
+	"screen.laowu_meme.copy_path": "复制路径",
+	"screen.laowu_meme.page": "第 %s / %s 页",
+	"screen.laowu_meme.folder_opened": "已请求打开音频文件夹",
+	"screen.laowu_meme.path_copied": "音频路径已复制"
+}

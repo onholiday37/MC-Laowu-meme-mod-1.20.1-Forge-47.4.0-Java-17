@@ -1,0 +1,16 @@
+{
+	"subtitles.laowu_meme.laowu2": "Laowu2",
+	"subtitles.laowu_meme.qiliang": "Qiliang",
+	"subtitles.laowu_meme.zhanhou": "Battle Cry",
+	"screen.laowu_meme.title": "Laowu Meme · Audio Settings",
+	"screen.laowu_meme.hint": "Toggle tracks here; place external OGG files in config/laowu_meme/sounds",
+	"screen.laowu_meme.missing_builtin": "— %s (OGG missing from original archive)",
+	"screen.laowu_meme.previous": "Previous",
+	"screen.laowu_meme.next": "Next",
+	"screen.laowu_meme.refresh": "Refresh",
+	"screen.laowu_meme.open_folder": "Open folder",
+	"screen.laowu_meme.copy_path": "Copy path",
+	"screen.laowu_meme.page": "Page %s / %s",
+	"screen.laowu_meme.folder_opened": "Requested opening the audio folder",
+	"screen.laowu_meme.path_copied": "Audio path copied"
+}

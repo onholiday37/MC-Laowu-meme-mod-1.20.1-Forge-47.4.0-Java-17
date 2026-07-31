@@ -1,0 +1,23 @@
+{
+	"laowu2": {
+		"category": "neutral",
+		"subtitle": "subtitles.laowu_meme.laowu2",
+		"sounds": [
+			{"name": "laowu_meme:laowu2", "stream": true}
+		]
+	},
+	"qiliang": {
+		"category": "neutral",
+		"subtitle": "subtitles.laowu_meme.qiliang",
+		"sounds": [
+			{"name": "laowu_meme:qiliang", "stream": true}
+		]
+	},
+	"zhanhou": {
+		"category": "neutral",
+		"subtitle": "subtitles.laowu_meme.zhanhou",
+		"sounds": [
+			{"name": "laowu_meme:zhanhou", "stream": true}
+		]
+	}
+}
