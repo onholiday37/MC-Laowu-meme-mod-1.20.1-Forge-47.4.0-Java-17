@@ -9,6 +9,7 @@
 - 保留服务端权威的猫配对、靠近、锁定和右键打断逻辑
 - 移植猫歪头、弓背、体型放大动画
 - 移植多人网络同步
+- 内置原作者 v1.2.1 Release 中的 `laowu2`、`qiliang` 和 `zhanhou` 三段 OGG，安装 JAR 后可直接播放
 - 支持从 `config/laowu_meme/sounds/` 直接加载外部 OGG
 - 支持中文或带空格的 OGG 文件名
 - 在 Forge Mods 页面加入音频配置界面，可刷新、分页和逐条启用/禁用
@@ -19,13 +20,13 @@
 
 多人游戏需要服务端和客户端都安装。服务端负责猫的行为与同步，客户端负责动画和声音。
 
-外部音乐必须是 Ogg Vorbis 格式，放入：
+JAR 已经内置三段原版音频，无需额外导入。若要添加其他音乐，外部音乐必须是 Ogg Vorbis 格式，放入：
 
 ```text
 config/laowu_meme/sounds/
 ```
 
-原源码压缩包没有附带 `laowu2.ogg`、`qiliang.ogg` 和 `zhanhou.ogg`，因此本移植版也没有重新分发这些音频。没有文件的内置条目会在配置界面显示为不可用。
+三段内置音频提取自原作者 [Rogic460/Minecraft-laowu-meme v1.2.1 官方 Release](https://github.com/Rogic460/Minecraft-laowu-meme/releases/tag/v1.2.1)。外部音频导入和启用/禁用配置功能仍然保留。
 
 ## 构建
 
@@ -42,7 +43,7 @@ config/laowu_meme/sounds/
 - Minecraft 1.20.1
 - Forge 47.4.0
 - Java 17
-- Mod version 1.2.1-forge
+- Mod version 1.2.2-forge
 
 ## License
 

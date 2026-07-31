@@ -2,6 +2,12 @@
 
 所有重要变更记录在此文件。格式参考 [Keep a Changelog](https://keepachangelog.com/)，版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [1.2.2-forge] - 2026-07-31
+
+### 新增功能
+- **内置原版音频**：从原作者 `Rogic460/Minecraft-laowu-meme` 的 v1.2.1 官方 Release JAR 提取并内置 `laowu2.ogg`、`qiliang.ogg` 和 `zhanhou.ogg`。玩家只需安装模组 JAR 即可播放，不再需要手动导入这三段音频。
+- **保留外部音频扩展**：`config/laowu_meme/sounds/` 的自定义 OGG 导入、刷新和启用/禁用功能保持不变。
+
 ## [1.2.1] - 2026-07-27
 
 ### 修复（Bug）
